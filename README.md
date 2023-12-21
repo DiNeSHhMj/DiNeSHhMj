@@ -45,9 +45,9 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
   </a>
-  <a href="https://www.prisma.io/cloud/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.prisma.io/cloud/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="Prisma Cloud" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
