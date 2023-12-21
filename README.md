@@ -1,7 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dinesh Majumdar</h1>
-<h3 align="center">I possess an unwavering enthusiasm for the art of "Hello World..."</h3>
+<h3 align="center">DevOps Engineer | Enthusiast for the art of "Hello World..."</h3>
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coding" width="400" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshhmj&label=Profile%20views&color=0e75b6&style=flat" alt="dineshhmj" /> </p>
 
 - 🔭 I’m currently working on **Mineral Exploration using Deep Neural Network**
@@ -12,7 +13,6 @@
 
 - 📫 How to reach me **dineshmajumdar18@gmail.com**
 
- 
 <p align="left">
 </p>
 
@@ -46,9 +46,6 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
   </a>
-<!--   <a href="https://www.prisma.io/cloud/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="Prisma Cloud" width="40" height="40"/>
-  </a> -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
@@ -65,11 +62,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshhmj&show_icons=true&locale=en&layout=compact" alt="dineshhmj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshhmj&show_icons=true&locale=en" alt="dineshhmj" /></p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript
